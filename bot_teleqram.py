@@ -3,7 +3,7 @@ from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 
 
-bot = Bot('5661889481:AAF-NOlg7eGAyHtOFLuFXy48__wBiDn1KMM')
+bot = Bot('')
 dp = Dispatcher(bot)
 
 async  def on_startup(_):
